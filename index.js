@@ -14,7 +14,7 @@ const {
     processTime,
     GroupSettingChange
 } = require('@adiwajshing/baileys')
-api = "https://bayuprime.herokuapp.com/"
+api = "https://myselfff.herokuapp.com/docs"
 const { color, bgcolor } = require('./X2/color') 
 const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./X2/functions')
 const { fetchJson, fetchText } = require('./X2/fetcher')
